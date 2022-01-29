@@ -1,8 +1,8 @@
 ## Welcome to my Github's profile.
 
-🖥 I work as BackOffice Agent I @ Serasa Experian. <br/>
-📚 I study Analysis and Systems Development in College. <br/>
-🚀 I'm learning User Interface, HTML and English. 
+• 🖥 I work as BackOffice Agent I @ Serasa Experian. <br/>
+• 📚 I study Analysis and Systems Development in College. <br/>
+• 🚀 I'm learning User Interface, HTML and English. 
 
 <div align="center">
   <a href="https://github.com/codetodestroy">
