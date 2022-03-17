@@ -4,7 +4,7 @@
 • 📚 I study Analysis and Systems Development in College. <br/>
 • 🚀 I'm learning User Interface, HTML and English. 
 
-### My knowlegdes:
+### My knowledges:
  
 <div style="display: inline_block">
   <img align="center" alt="Caio-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
