@@ -1,4 +1,12 @@
-### Hi there!! My name is Caio 👨‍💻📚
+### Hi there!! I am Caio Douglas and I am a student of programming 👨‍💻📚
+
+🖥 I currently work as BackOffice Agent I @ Serasa Experian. <br>
+📚 I'm studying Analysis and Systems Development at FAC SENAC-DF. <br>
+🚀 I love to learn, to play videogames, programming and tech. 
+
+<hr>
+
+### Where you can find me:
 
 <div> 
     <a href="mailto:caiodqribeiro@gmail.com">
@@ -12,12 +20,10 @@
     </a> 
 </div>
 
-<br>
-🖥 I currently work as BackOffice Agent I @ Serasa Experian. <br>
-📚 I'm studying Analysis and Systems Development at FAC SENAC-DF. <br>
-🚀 I love to learn, to play videogames, programming and tech. 
-<br>
-<br>
+<hr>
+
+### What technologies have I been using?
+
 <div align="left">
     <a href="https://github.com/codetodestroy">
         <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetodestroy&layout=compact&langs_count=7&theme=dark">
