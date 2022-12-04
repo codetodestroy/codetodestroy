@@ -1,6 +1,6 @@
 ### Hi there!! I am Caio Douglas and I am a student of programming 👨‍💻📚
 
-🖥 I currently work as BackOffice Agent II @ Serasa Experian. <br>
+🖥 I currently work as Operations Agent II @ Serasa Experian. <br>
 📚 I'm studying Analysis and Systems Development at FAC SENAC-DF. <br>
 🚀 I love to learn, to play videogames, programming and tech. 
 
