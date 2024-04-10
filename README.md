@@ -1,4 +1,4 @@
-### Hi there!! I'm Caio and I'm a student of tecnology 👨‍💻📚
+### Hi there!! I'm Caio and I'm a student of tecnology looking for new opportunities 👨‍💻📚
 
 🖥 I currently work as Operations Agent II at Serasa Experian. <br>
 📚 I'm graduated in Análise e Desenvolvimento de Sistemas at FAC SENAC-DF. <br>
